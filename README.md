@@ -77,29 +77,29 @@ $$
 
 ## Hardware
 
-![STM32F411 블럭도](img/F2.PNG) <br>
-![STM32F411 블럭도](img/F4.PNG)
-![STM32F411 블럭도](img/F5.PNG)  <br>
+![STM32F411 블럭도](example/F2.PNG) <br>
+![STM32F411 블럭도](example/F4.PNG)
+![STM32F411 블럭도](example/F5.PNG)  <br>
 
 
 <p align="center">
-  <img src="img/F2.PNG">
+  <img src="example/F2.PNG">
 </p>
 
 <p align="center">
-  <img src="img/F2.PNG" width="80%">
+  <img src="example/F2.PNG" width="80%">
 </p>
 
 <p align="center">
-  <img src="img/F2.PNG" width="200">
+  <img src="example/F2.PNG" width="200">
 </p>
 
 <p align="center">
-  <img src="img/F2.PNG"  height="20%">
+  <img src="example/F2.PNG"  height="20%">
 </p>
 
 <p align="center">
-  <img src="img/F2.PNG"  height="200">
+  <img src="example/F2.PNG"  height="200">
 </p>
 
 ---
