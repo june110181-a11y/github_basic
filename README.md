@@ -77,10 +77,13 @@ $$
 
 ## Hardware
 
+- 사진 첨부
+
 ![STM32F411 블럭도](example/F2.PNG) <br>
 ![STM32F411 블럭도](example/F4.PNG)
 ![STM32F411 블럭도](example/F5.PNG)  <br>
 
+- 사진 첨부 width, height 설정
 
 <p align="center">
   <img src="example/F2.PNG">
