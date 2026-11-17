@@ -113,6 +113,25 @@ $$
 
 ---
 
+## 클릭시 자동 찾아가기
+주의점: []안에는 제목과 완전 동일하게 ()은 제목과 동일하지만 특수문자 제외 및 띄어쓰기는 "-"으로 대체
+
+### Table of Contents
+- [1. Architecture](#1-architecture)
+- [2. CLOCK](#2-clock)
+- [3. MemoryMap](#3-memorymap)
+- [4. Register](#4-register)
+- [5. Test](#5-test)
+
+### 1. Architecture
+
+### 2. CLOCK
+
+### 3. MemoryMap
+
+### 4. Register
+
+### 5. Test
 
 
 
