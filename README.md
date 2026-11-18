@@ -147,7 +147,7 @@ $$
       <img src="example/F2.PNG" width="100%">
     </td>
     <td align="center" width="80%">
-      <img src="example/F4.PNG" width="100%">
+      <img src="example/F2.PNG" width="100%">
     </td>
   </tr>
 </table>
