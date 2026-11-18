@@ -141,7 +141,7 @@ $$
 
 ---
 
-### table
+## table
 
 <table>
   <tr>
@@ -154,7 +154,7 @@ $$
   </tr>
 </table>
 
-# table 제목 추가
+### table 제목 추가
 
 <table>
   <tr>
