@@ -143,7 +143,7 @@ $$
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="80%">
       <img src="example/F2.PNG" width="100%">
     </td>
     <td align="center" width="50%">
