@@ -152,4 +152,22 @@ $$
   </tr>
 </table>
 
+# table 제목 추가
+
+<table>
+  <tr>
+    <th width="50%">HC-SR04 Sensor</th>
+    <th width="50%">Circuit Schematic</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="example/F2.PNG" width="250">
+    </td>
+    <td align="center">
+      <img src="example/F2.PNG" width="250">
+    </td>
+  </tr>
+</table>
+
+
 
