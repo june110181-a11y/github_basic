@@ -163,7 +163,7 @@ $$
   </tr>
   <tr>
     <td align="center">
-      <img src="example/F2.PNG" width="150%">
+      <img src="example/F2.PNG" width="200%">
     </td>
     <td align="center">
       <img src="example/F2.PNG" width="100%">
