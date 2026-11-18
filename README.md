@@ -139,5 +139,17 @@ $$
 <summary>F411</summary>
 </details>
 
+### table
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="img/HC_SR04_img/HC_SR04_img.png" width="250">
+    </td>
+    <td align="center" width="50%">
+      <img src="img/HC_SR04_img/HC_SR04_Schematic.png" width="250">
+    </td>
+  </tr>
+</table>
 
 
