@@ -143,10 +143,10 @@ $$
 
 <table>
   <tr>
-    <td align="center" width="80%">
+    <td align="center" width="40%">
       <img src="example/F2.PNG" width="100%">
     </td>
-    <td align="center" width="80%">
+    <td align="center" width="40%">
       <img src="example/F2.PNG" width="100%">
     </td>
   </tr>
